@@ -5,5 +5,3 @@
 
   * **Objetivo:** criar uma rede social para cientistas de dados.
 
-* Agora vamos ver como iniciar esse projeto.
- Primeiramente, iremos importar os pacotes a serem utilizados.
